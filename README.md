@@ -9,6 +9,4 @@ data2kinyungu/data2kinyungu is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=data2kinyungu&show_icons=true&theme=tokyonight" 
-/>
+
